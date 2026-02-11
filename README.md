@@ -145,6 +145,7 @@
 
 This research was funded by the eLasmobranc project, which is developed with the collaboration of the Biodiversity Foundation of the Ministry for Ecological Transition and the Demographic Challenge, through the Pleamar Programme, and is co-financed by the European Union through the European Maritime, Fisheries and Aquaculture Fund.
 
+
 <p align="center">
-  <img src="./images/footer6.png" width="900"/>
+  <img src="./images/footer6.png" width="1200"/>
 </p>
