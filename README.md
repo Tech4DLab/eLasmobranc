@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/LogoELasmobranc.jpg" alt="e-Lasmobranc Banner" width="1000"/>
+  <img src="./images/cimar.jpg" alt="e-Lasmobranc Banner" width="1000"/>
 </p>
 
 <h1 align="center">🦈 e-Lasmobranc 🐟</h1>
