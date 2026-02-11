@@ -23,11 +23,11 @@
     <img src="https://img.shields.io/badge/Dataset-eLasmobranc-6f42c1?style=for-the-badge&logo=zenodo&logoColor=white"/>
   </a>
 
-  <a href="MODEL">
+  <a href="https://github.com/Tech4DLab/eLasmobranc-model">
     <img src="https://img.shields.io/badge/Model-Identification-orange?style=for-the-badge"/>
   </a>
 
-  <a href="YOUR_APP_LINK">
+  <a href="https://github.com/Tech4DLab/eLasmobranc-appweb">
     <img src="https://img.shields.io/badge/Web_App-eLasmobranc-2196F3?style=for-the-badge&logo=streamlit&logoColor=white"/>
   </a>
 
