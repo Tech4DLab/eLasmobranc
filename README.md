@@ -2,7 +2,7 @@
   <img src="./images/cimar.jpg" alt="e-Lasmobranc Banner" width="1000"/>
 </p>
 
-<h1 align="center">🦈 e-Lasmobranc 🐟</h1>
+<h1 align="center">🦈 e-Lasmobranc 🌊 </h1>
 <h3 align="center">🏛️ University of Alicante 🏛️</h3>
 
 <p align="center">
