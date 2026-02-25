@@ -61,7 +61,7 @@
   Acceptance of the paper presenting an advanced zero-shot identification framework integrating domain-specific prior knowledge, representing a near-final version of the elasmobranch identification model.  
   🔗 DOI: https://doi.org/10.3390/make7040146
 
-  - **October 2025** – 🖼 *Poster presented at the X Congreso de Comunicación Social de la Ciencia (Palma de Mallorca).*  
+- **October 2025** – 🖼 *Poster presented at the X Congreso de Comunicación Social de la Ciencia (Palma de Mallorca).*  
   Presentation of the poster “Desmontando a Spielberg o un nuevo paradigma sobre los tiburones”, addressing public perception and science communication challenges related to sharks.
 
 - **September 2025** – 📘 *Publication of the “Image Capture and Structuring Protocol for Elasmobranch Species Differentiation”.*  
