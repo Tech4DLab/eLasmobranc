@@ -57,11 +57,11 @@
   The e-Lasmobranc project was officially selected in the Pleamar call for proposals, co-financed by the Fondo Europeo Marítimo, de Pesca y Acuicultura (FEMPA), supporting research into new technologies and advances in knowledge of elasmobranch species in southeastern Spain.  
   🔗 Call for proposals: https://fundacion-biodiversidad.es/convocatorias_pleama/convocatoria-de-ayudas-del-programa-pleamar-2025/
 
-- **October 2025** – 📄 *Paper accepted: “Zero-Shot Elasmobranch Classification Informed by Domain Prior Knowledge”.*  
+- **October 2025** – 📄 *Paper accepted: “Zero-Shot Elasmobranch Classification Informed by Domain Prior Knowledge”.*
   Acceptance of the paper presenting an advanced zero-shot identification framework integrating domain-specific prior knowledge, representing a near-final version of the elasmobranch identification model.  
   🔗 DOI: https://doi.org/10.3390/make7040146
 
-- **October 2025** – 🖼 *Poster presented at the X Congreso de Comunicación Social de la Ciencia (Palma de Mallorca).* [see here](https://github.com/Tech4DLab/eLasmobranc/blob/main/images/P%C3%B3ster%20protocolo%20toma%20de%20im%C3%A1genes%20ingl%C3%A9s.pdf) 
+- **October 2025** – 🖼 *Poster presented at the X Congreso de Comunicación Social de la Ciencia (Palma de Mallorca).* [see here](https://github.com/Tech4DLab/eLasmobranc/blob/main/images/P%C3%B3ster%20protocolo%20toma%20de%20im%C3%A1genes%20ingl%C3%A9s.pdf)<br>
   Presentation of the poster “Desmontando a Spielberg o un nuevo paradigma sobre los tiburones”, addressing public perception and science communication challenges related to sharks.
 
 - **September 2025** – 📘 *Publication of the “Image Capture and Structuring Protocol for Elasmobranch Species Differentiation”.*  
@@ -71,11 +71,11 @@
 - **September-November 2025** – 🎤 *Early acceptance and preliminary elasmobranch identification model presented at UCAMI 2025.*  
   Presentation of early results on AI-based elasmobranch identification, marking the first public disclosure of initial methodological approaches, laying the groundwork for subsequent zero-shot and knowledge-informed approaches.
 
-- **July 2025** – 🖼 *Poster presented at the 58th European Marine Biology Symposium (Bodø, Norway).* [see here](https://web.ua.es/es/cimar/publicaciones/embs2025-poster-aranda-nieves.pdf)
+- **July 2025** – 🖼 *Poster presented at the 58th European Marine Biology Symposium (Bodø, Norway).* [see here](https://web.ua.es/es/cimar/publicaciones/embs2025-poster-aranda-nieves.pdf)<br>
   Presentation of the poster “e-Lasmobranc PROJECT: New technologies for the research of elasmobranchs in southeastern Spain”, showcasing the integration of emerging technologies for the study and monitoring of elasmobranch species in southeastern Spain.  
   Authors: Aranda-Garrido, N.; Arroyo-Martínez, E.; Abel-Abellán, I.; Antón-Linares, I.; Ramos-Esplá, A. A.; Fuster-Guillo, A.; Beviá-Ballesteros, I.; Azorín-López, J.; Giménez-Casalduero, M. F.
 
-- **April 2025** – 🖼 *Poster presented at the Red Nacional de Elasmobranquios (Oropesa del Mar).*  [see here](https://web.ua.es/es/cimar/poster-rne-isra.pdf)
+- **April 2025** – 🖼 *Poster presented at the Red Nacional de Elasmobranquios (Oropesa del Mar).*  [see here](https://web.ua.es/es/cimar/poster-rne-isra.pdf)<br>
   Presentation of the poster “Distribución del esfuerzo pesquero en elasmobranquios en el ISRA Murcia Pockmarks”, analysing the spatial distribution of fishing effort affecting elasmobranch populations within the ISRA Murcia Pockmarks area.
 
 - **January 2025** – 🚀 *Official start of e-Lasmobranc Phase 1 (e-Lasmobranc 1).*  
@@ -141,8 +141,7 @@
 
 - **Aranda-Garrido, N., Arroyo-Martínez, E., Abel-Abellán, I., Antón-Linares, I., Ramos-Esplá, A. A., Fuster-Guillo, A., Beviá-Ballesteros, I., Azorín-López, J., & Giménez-Casalduero, M. F. (2025).**  
   *e-Lasmobranc PROJECT: New technologies for the research of elasmobranchs in southeastern Spain.*  
-  Poster presented at the 58th European Marine Biology Symposium, Bodø, Norway.  
-  https://web.ua.es/es/cimar/publicaciones/embs2025-poster-aranda-nieves.pdf
+  Poster presented at the 58th European Marine Biology Symposium, Bodø, Norway. [see here](https://web.ua.es/es/cimar/poster-rne-isra.pdf)<br>  
 
 - **Arroyo-Martínez, E., Abel-Abellán, I., Esteban, A., Ramos-Esplá, A. A., Sánchez-Lizaso, J. L., & Giménez-Casalduero, F. (2024).**  
   *Área Importante para Tiburones y Rayas (sureste español).*  
@@ -151,11 +150,11 @@
 
 - **Aranda-Garrido, N., Arroyo-Martínez, E., Abel-Abellán, I., Antón-Linares, I., Ramos-Esplá, A. A., Fuster-Guillo, A., Beviá-Ballesteros, I., Azorín-López, J., & Giménez-Casalduero, M. F. (2025).**  
   *Distribución del esfuerzo pesquero en elasmobranquios en el ISRA Murcia Pockmarks.*  
-  Poster presented at the Red Nacional de Elasmobranquios, Oropesa del Mar.
+  Poster presented at the Red Nacional de Elasmobranquios, Oropesa del Mar. [see here](https://web.ua.es/es/cimar/poster-rne-isra.pdf)<br>
 
 - **Aranda-Garrido, N., Arroyo-Martínez, E., Abel-Abellán, I., Antón-Linares, I., Ramos-Esplá, A. A., Fuster-Guillo, A., Beviá-Ballesteros, I., Azorín-López, J., & Giménez-Casalduero, M. F. (2025).**  
   *Desmontando a Spielberg o un nuevo paradigma sobre los tiburones.*  
-  Poster presented at the X Congreso de Comunicación Social de la Ciencia, Palma de Mallorca.  
+  Poster presented at the X Congreso de Comunicación Social de la Ciencia, Palma de Mallorca. [see here](https://github.com/Tech4DLab/eLasmobranc/blob/main/images/P%C3%B3ster%20protocolo%20toma%20de%20im%C3%A1genes%20ingl%C3%A9s.pdf)<br>
 
 ## 📘 Image Capture and Structuring Protocol for Elasmobranchs
 
