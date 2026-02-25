@@ -61,7 +61,7 @@
   Acceptance of the paper presenting an advanced zero-shot identification framework integrating domain-specific prior knowledge, representing a near-final version of the elasmobranch identification model.  
   🔗 DOI: https://doi.org/10.3390/make7040146
 
-- **October 2025** – 🖼 *Poster presented at the X Congreso de Comunicación Social de la Ciencia (Palma de Mallorca).*  
+- **October 2025** – 🖼 *Poster presented at the X Congreso de Comunicación Social de la Ciencia (Palma de Mallorca).* [see here](https://github.com/Tech4DLab/eLasmobranc/blob/main/images/P%C3%B3ster%20protocolo%20toma%20de%20im%C3%A1genes%20ingl%C3%A9s.pdf) 
   Presentation of the poster “Desmontando a Spielberg o un nuevo paradigma sobre los tiburones”, addressing public perception and science communication challenges related to sharks.
 
 - **September 2025** – 📘 *Publication of the “Image Capture and Structuring Protocol for Elasmobranch Species Differentiation”.*  
@@ -87,9 +87,6 @@
   🔗 Document: https://web.ua.es/es/cimar/isra-conama24-escrito.pdf
 
 </details>
-
-
-
 
 ---
 
@@ -142,19 +139,40 @@
 - **Abel, I., Antón, I., Aranda Garrido, N., Azorín López, J., Beviá, I., Fuster-Guilló, A., … & Saval-Calvo, M. (2025).**  
   *Protocolo de Captura y Estructuración de Imágenes para la Diferenciación de Especies de Elasmobranquios.*
 
+- **Aranda-Garrido, N., Arroyo-Martínez, E., Abel-Abellán, I., Antón-Linares, I., Ramos-Esplá, A. A., Fuster-Guillo, A., Beviá-Ballesteros, I., Azorín-López, J., & Giménez-Casalduero, M. F. (2025).**  
+  *e-Lasmobranc PROJECT: New technologies for the research of elasmobranchs in southeastern Spain.*  
+  Poster presented at the 58th European Marine Biology Symposium, Bodø, Norway.  
+  https://web.ua.es/es/cimar/publicaciones/embs2025-poster-aranda-nieves.pdf
+
+- **Arroyo-Martínez, E., Abel-Abellán, I., Esteban, A., Ramos-Esplá, A. A., Sánchez-Lizaso, J. L., & Giménez-Casalduero, F. (2024).**  
+  *Área Importante para Tiburones y Rayas (sureste español).*  
+  Technical communication presented at the Congreso Nacional de Medio Ambiente (CONAMA), Madrid.  
+  https://web.ua.es/es/cimar/isra-conama24-escrito.pdf
+
+- **Aranda-Garrido, N., Arroyo-Martínez, E., Abel-Abellán, I., Antón-Linares, I., Ramos-Esplá, A. A., Fuster-Guillo, A., Beviá-Ballesteros, I., Azorín-López, J., & Giménez-Casalduero, M. F. (2025).**  
+  *Distribución del esfuerzo pesquero en elasmobranquios en el ISRA Murcia Pockmarks.*  
+  Poster presented at the Red Nacional de Elasmobranquios, Oropesa del Mar.
+
+- **Aranda-Garrido, N., Arroyo-Martínez, E., Abel-Abellán, I., Antón-Linares, I., Ramos-Esplá, A. A., Fuster-Guillo, A., Beviá-Ballesteros, I., Azorín-López, J., & Giménez-Casalduero, M. F. (2025).**  
+  *Desmontando a Spielberg o un nuevo paradigma sobre los tiburones.*  
+  Poster presented at the X Congreso de Comunicación Social de la Ciencia, Palma de Mallorca.  
+
+## 📘 Image Capture and Structuring Protocol for Elasmobranchs
+
+<img src="images/Póster protocolo.jpg" width="400">
 
 ## 👥 Research Team
 
 | Name | Role | Contact |
 |------|------|---------|
 | Ismael Beviá Ballesteros | PhD Student / Researcher | ismael.bevias@ua.es |
-| Nieves Aranda Garrido | Researcher | – |
-| Isabel Abel Abellán | Researcher | – |
-| Irene Antón Linares | Researcher  | – |
+| Nieves Aranda Garrido | Researcher | nieves.aranda@ua.es |
+| Isabel Abel Abellán | Researcher | isabel.abel@ua.es |
+| Irene Antón Linares | Researcher  | irene.anton@ua.es |
 | Dr. Marcelo Saval Calvo | Supervisor | m.saval@gcloud.ua.es |
 | Dr. Jorge Azorín López | Researcher | jazorin@ua.es |
 | Dr. Andrés Fuster Guilló | Project Leader / Supervisor | fuster@ua.es |
-| Dr. Francisca Giménez Casalduero | Project Leader | – |
+| Dr. Francisca Giménez Casalduero | Project Leader | francisca.gimenez@ua.es |
 
 ## 🤝 Acknowledgments
 
