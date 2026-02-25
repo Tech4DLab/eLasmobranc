@@ -61,6 +61,9 @@
   Acceptance of the paper presenting an advanced zero-shot identification framework integrating domain-specific prior knowledge, representing a near-final version of the elasmobranch identification model.  
   🔗 DOI: https://doi.org/10.3390/make7040146
 
+  - **October 2025** – 🖼 *Poster presented at the X Congreso de Comunicación Social de la Ciencia (Palma de Mallorca).*  
+  Presentation of the poster “Desmontando a Spielberg o un nuevo paradigma sobre los tiburones”, addressing public perception and science communication challenges related to sharks.
+
 - **September 2025** – 📘 *Publication of the “Image Capture and Structuring Protocol for Elasmobranch Species Differentiation”.*  
   Release of a standardized protocol for image acquisition and organization to support consistent species differentiation and dataset construction.
   🔗 Protocol: https://agris.fao.org/search/en/providers/125030/records/68b6c5a268d9e680670075b8
@@ -68,8 +71,20 @@
 - **September-November 2025** – 🎤 *Early acceptance and preliminary elasmobranch identification model presented at UCAMI 2025.*  
   Presentation of early results on AI-based elasmobranch identification, marking the first public disclosure of initial methodological approaches, laying the groundwork for subsequent zero-shot and knowledge-informed approaches.
 
+- **July 2025** – 🖼 *Poster presented at the 58th European Marine Biology Symposium (Bodø, Norway).* [see here](https://web.ua.es/es/cimar/publicaciones/embs2025-poster-aranda-nieves.pdf)
+  Presentation of the poster “e-Lasmobranc PROJECT: New technologies for the research of elasmobranchs in southeastern Spain”, showcasing the integration of emerging technologies for the study and monitoring of elasmobranch species in southeastern Spain.  
+  Authors: Aranda-Garrido, N.; Arroyo-Martínez, E.; Abel-Abellán, I.; Antón-Linares, I.; Ramos-Esplá, A. A.; Fuster-Guillo, A.; Beviá-Ballesteros, I.; Azorín-López, J.; Giménez-Casalduero, M. F.
+
+- **April 2025** – 🖼 *Poster presented at the Red Nacional de Elasmobranquios (Oropesa del Mar).*  [see here](https://web.ua.es/es/cimar/poster-rne-isra.pdf)
+  Presentation of the poster “Distribución del esfuerzo pesquero en elasmobranquios en el ISRA Murcia Pockmarks”, analysing the spatial distribution of fishing effort affecting elasmobranch populations within the ISRA Murcia Pockmarks area.
+
 - **January 2025** – 🚀 *Official start of e-Lasmobranc Phase 1 (e-Lasmobranc 1).*  
   After an initial organization and planning period, the first phase of the e-Lasmobranc project formally began, focusing on dataset preparation, preliminary identification models and the definition of domain-informed methodologies.
+
+- **December 2024** – 🧾 *Technical communication at the Congreso Nacional de Medio Ambiente (CONAMA), Madrid.* 
+  Written contribution titled “Área Importante para Tiburones y Rayas (sureste español)”, focused on the identification and ecological relevance of Important Shark and Ray Areas in southeastern Spain.  
+  Authors: Arroyo-Martínez, E.; Abel-Abellán, I.; Esteban, A.; Ramos-Esplá, A. A.; Sánchez-Lizaso, J. L.; Giménez-Casalduero, F.
+  🔗 Document: https://web.ua.es/es/cimar/isra-conama24-escrito.pdf
 
 </details>
 
